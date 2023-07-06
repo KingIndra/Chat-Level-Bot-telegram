@@ -1,0 +1,11 @@
+< A Chat Level Bot For Telegram Groups Built using Python >
+
+setting up:
+    -> install requirements.py using command "pip install -r requirements.txt"
+    -> make changes in  keys.py file
+    -> to start the bot, run bot.py file using command "python bot.py"
+
+starting bot:
+    -> got to your bot's personal chat and send command "/help"
+
+ENJOY 😉
