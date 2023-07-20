@@ -1,6 +1,6 @@
 ## Chat ( Level / XP ) Bot For Telegram Groups Built using Python 
 
-Telegram Username ->  [@Chat_Level_Bot]()
+Telegram Username ->  [@Chat_Level_Bot]()  |  Scroll Down for Images
 
 ```
 setting up:
@@ -11,6 +11,29 @@ setting up:
 starting bot:
     -> got to your bot's personal chat and send command "/help"
 
+```
+```
+<COMMANDS>
+(FOR ALL MEMBERS) 
+/me : to see your information. 
+/levels : to see level. 
+/toplvl : to see users with top levels. 
+/toprep : to see users with top reps.
+
+(FOR ADMINS)
+/addlvl level_name level_points : to add a new level.
+/rmvlvl level_name : to remove a level.
+
+(REPLIED MESSAGES)
+/status : to see user information.
+/setrank nick_name : to set a custom nickname.
+/unsetrank : to remove custom nickname.
+w or W or 😼 : to increase rep.
+l or L or 💀 : to decrease rep. 
+/startbot to start bot in your group after adding it
+Talk with GPT AI byt replying to bot
+/news for fetching news
+contact developer @KingIndra for any help.
 ```
 
 <hr>
@@ -98,29 +121,5 @@ starting bot:
 <img style="width:300px;" src="images/photo_2023-07-21_00-57-48.jpg"></img>
 
 <hr>
-
-```
-<COMMANDS>
-(FOR ALL MEMBERS) 
-/me : to see your information. 
-/levels : to see level. 
-/toplvl : to see users with top levels. 
-/toprep : to see users with top reps.
-
-(FOR ADMINS)
-/addlvl level_name level_points : to add a new level.
-/rmvlvl level_name : to remove a level.
-
-(REPLIED MESSAGES)
-/status : to see user information.
-/setrank nick_name : to set a custom nickname.
-/unsetrank : to remove custom nickname.
-w or W or 😼 : to increase rep.
-l or L or 💀 : to decrease rep. 
-/startbot to start bot in your group after adding it
-Talk with GPT AI byt replying to bot
-/news for fetching news
-contact developer @KingIndra for any help.
-```
 
 ### ENJOY 😉
