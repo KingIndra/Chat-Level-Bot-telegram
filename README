@@ -1,6 +1,6 @@
 # < A Chat Level Bot For Telegram Groups Built using Python >
 
-Telegram Username -> (@Chat_Level_Bot)[http://t.me/Chat_Level_Bot]
+Telegram Username -> @Chat_Level_Bot
 
 setting up:
     -> install requirements.py using command "pip install -r requirements.txt"
