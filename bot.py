@@ -12,6 +12,29 @@ def delete_command(chat_id, message_id):
 
 from chatbot import ai_response
 
+from news import FetchNews
+fetch_news = FetchNews()
+
+@bot.edited_message_handler(commands=['news'])
+@bot.message_handler(commands=['news'])
+def help(msg):
+    chat_id = msg.chat.id
+    msg_id = msg.id
+    crud.check_chat_entry(chat_id)
+    message = fetch_news.news()
+    prev_msg_id = bot.send_message(chat_id, message).message_id
+    type = 'apis'
+    prev_msg_id_fnc = crud.data[str(chat_id)]['last_message_id'][type]
+    if prev_msg_id_fnc != None:
+        try:
+            bot.delete_message(chat_id, prev_msg_id_fnc)
+            crud.data[str(chat_id)]['last_message_id'][type] = None
+        except:
+            pass
+    delete_command(chat_id, msg_id)
+    crud.data[str(chat_id)]['last_message_id'][type] = prev_msg_id
+    crud.save()
+
 from api import ReputationSystem
 crud = ReputationSystem(bot)
 
@@ -269,7 +292,7 @@ def commands(msg):
                             to_member = bot.get_chat_member(chat_id, msg.reply_to_message.from_user.id)
 
                             # print(to_member.user.id)
-                            if to_member.user.id==PRIMARY_BOT_ID or to_member.user.id==SECONDARY_BOT_ID:
+                            if to_member.user.id==PRIMARY_BOT_ID:
                                 # bot.reply_to(msg, "lol")
                                 bot.reply_to(msg, ai_response(text))
 
