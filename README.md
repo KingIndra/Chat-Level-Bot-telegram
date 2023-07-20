@@ -12,34 +12,95 @@ starting bot:
     -> got to your bot's personal chat and send command "/help"
 
 ```
-```see status of a member```
-![Alt text](<images/photo_2023-07-21_00-56-51 (2).jpg>)
-```add new levels```
-![Alt text](images/photo_2023-07-21_00-56-51.jpg)
-```check top level members```
-![Alt text](images/photo_2023-07-21_00-56-52.jpg)
-```fetch latest news```
-![Alt text](images/photo_2023-07-21_00-56-53.jpg)
-```get help```
-![Alt text](images/photo_2023-07-21_00-56-54.jpg) 
-```extra commmands for super users```
-![Alt text](images/photo_2023-07-21_00-56-56.jpg)
-```set super rank```
-![Alt text](images/photo_2023-07-21_00-56-57.jpg) 
-```see all levels```
-![Alt text](images/photo_2023-07-21_00-56-58.jpg) 
-```watch top rep members```
-![Alt text](images/photo_2023-07-21_00-56-59.jpg) 
-```set custom nicknames for members```
-![Alt text](<images/photo_2023-07-21_00-57-40 (2).jpg>) 
-```check your status```
-![Alt text](images/photo_2023-07-21_00-57-40.jpg) 
-```decrease rep of a member```
-![Alt text](images/photo_2023-07-21_00-57-42.jpg) 
-```increase rep of a member with emoji```
-![Alt text](images/photo_2023-07-21_00-57-47.jpg) 
-```deccrease rep of a member with emoji```
-![Alt text](images/photo_2023-07-21_00-57-48.jpg)
+<div style="text-align:center">
+
+<hr>
+
+see status of a member
+
+<img style="width:300px;" src="images/photo_2023-07-21_00-56-51 (2).jpg"></img>
+
+<hr>
+
+add new levels
+
+<img style="width:300px;" src="images/photo_2023-07-21_00-56-51.jpg"></img>
+
+<hr>
+
+check top level members
+
+<img style="width:300px;" src="images/photo_2023-07-21_00-56-52.jpg"></img>
+
+<hr>
+
+fetch latest news
+
+<img style="width:300px;" src="images/photo_2023-07-21_00-56-53.jpg"></img>
+
+<hr>
+
+get help
+
+<img style="width:300px;" src="images/photo_2023-07-21_00-56-54.jpg"></img>
+
+<hr>
+
+extra commmands for super users
+
+<img style="width:300px;" src="images/photo_2023-07-21_00-56-56.jpg"></img>
+
+<hr>
+
+set super rank
+
+<img style="width:300px;" src="images/photo_2023-07-21_00-56-57.jpg"></img>
+
+<hr>
+
+see all levels
+
+<img style="width:300px;" src="images/photo_2023-07-21_00-56-58.jpg"></img>
+
+<hr>
+
+watch top rep members
+
+<img style="width:300px;" src="images/photo_2023-07-21_00-56-59.jpg"></img>
+
+<hr>
+
+set custom nicknames for members
+
+<img style="width:300px;" src="images/photo_2023-07-21_00-57-40 (2).jpg"></img>
+
+<hr>
+
+check your status
+
+<img style="width:300px;" src="images/photo_2023-07-21_00-57-40.jpg"></img>
+
+<hr>
+
+decrease rep of a member
+
+<img style="width:300px;" src="images/photo_2023-07-21_00-57-42.jpg"></img>
+
+<hr>
+
+increase rep of a member with emoji
+
+<img style="width:300px;" src="images/photo_2023-07-21_00-57-47.jpg"></img>
+
+<hr>
+
+deccrease rep of a member with emoji
+
+<img style="width:300px;" src="images/photo_2023-07-21_00-57-48.jpg"></img>
+
+<hr>
+
+</div>
 
 ```
 <COMMANDS>
@@ -62,7 +123,7 @@ l or L or 💀 : to decrease rep.
 /startbot to start bot in your group after adding it
 Talk with GPT AI byt replying to bot
 /news for fetching news
-contact developer - @KingIndra for any help.
+contact developer @KingIndra for any help.
 ```
 
 ### ENJOY 😉
