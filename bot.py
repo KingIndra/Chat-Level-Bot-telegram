@@ -106,7 +106,7 @@ def help(msg):
     chat_id = msg.chat.id
     msg_id = msg.id
     crud.check_chat_entry(chat_id)
-    message = "<COMMANDS>\n\n(FOR ALL MEMBERS) \n/me : to see your information. \n/levels : to see level. \n/toplvl : to see users with top levels. \n/toprep : to see users with top reps.\n\n(FOR ADMINS)\n/addlvl level_name level_points : to add a new level.\n/rmvlvl level_name : to remove a level.\n\n(REPLIED MESSAGES)\n/status : to see user information.\n/setrank nick_name : to set a custom nickname.\n/unsetrank : to remove custom nickname.\nw or W or 😼 : to increase rep.\nl or L or 💀 : to decrease rep."
+    message = "<COMMANDS>\n\n(FOR ALL MEMBERS) \n/me : to see your information. \n/levels : to see level. \n/toplvl : to see users with top levels. \n/toprep : to see users with top reps.\n\n(FOR ADMINS)\n/addlvl level_name level_points : to add a new level.\n/rmvlvl level_name : to remove a level.\n\n(REPLIED MESSAGES)\n/status : to see user information.\n/setrank nick_name : to set a custom nickname.\n/unsetrank : to remove custom nickname.\nw or W or 😼 : to increase rep.\nl or L or 💀 : to decrease rep. \n/startbot to start bot in your group after adding it\nTalk with GPT AI byt replying to bot\n/news for fetching news\ncontact developer - @KingIndra for any help."
     prev_msg_id = bot.send_message(chat_id, message).message_id
     type = 'super'
     prev_msg_id_fnc = crud.data[chat_id]['last_message_id'][type]
