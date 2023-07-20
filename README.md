@@ -12,95 +12,92 @@ starting bot:
     -> got to your bot's personal chat and send command "/help"
 
 ```
-<div style="text-align:center">
 
 <hr>
 
-see status of a member
+- see status of a member
 
 <img style="width:300px;" src="images/photo_2023-07-21_00-56-51 (2).jpg"></img>
 
 <hr>
 
-add new levels
+- add new levels
 
 <img style="width:300px;" src="images/photo_2023-07-21_00-56-51.jpg"></img>
 
 <hr>
 
-check top level members
+- check top level members
 
 <img style="width:300px;" src="images/photo_2023-07-21_00-56-52.jpg"></img>
 
 <hr>
 
-fetch latest news
+- fetch latest news
 
 <img style="width:300px;" src="images/photo_2023-07-21_00-56-53.jpg"></img>
 
 <hr>
 
-get help
+- get help
 
 <img style="width:300px;" src="images/photo_2023-07-21_00-56-54.jpg"></img>
 
 <hr>
 
-extra commmands for super users
+- extra commmands for super users
 
 <img style="width:300px;" src="images/photo_2023-07-21_00-56-56.jpg"></img>
 
 <hr>
 
-set super rank
+- set super rank
 
 <img style="width:300px;" src="images/photo_2023-07-21_00-56-57.jpg"></img>
 
 <hr>
 
-see all levels
+- see all levels
 
 <img style="width:300px;" src="images/photo_2023-07-21_00-56-58.jpg"></img>
 
 <hr>
 
-watch top rep members
+- watch top rep members
 
 <img style="width:300px;" src="images/photo_2023-07-21_00-56-59.jpg"></img>
 
 <hr>
 
-set custom nicknames for members
+- set custom nicknames for members
 
 <img style="width:300px;" src="images/photo_2023-07-21_00-57-40 (2).jpg"></img>
 
 <hr>
 
-check your status
+- check your status
 
 <img style="width:300px;" src="images/photo_2023-07-21_00-57-40.jpg"></img>
 
 <hr>
 
-decrease rep of a member
+- decrease rep of a member
 
 <img style="width:300px;" src="images/photo_2023-07-21_00-57-42.jpg"></img>
 
 <hr>
 
-increase rep of a member with emoji
+- increase rep of a member with emoji
 
 <img style="width:300px;" src="images/photo_2023-07-21_00-57-47.jpg"></img>
 
 <hr>
 
-deccrease rep of a member with emoji
+- deccrease rep of a member with emoji
 
 <img style="width:300px;" src="images/photo_2023-07-21_00-57-48.jpg"></img>
 
 <hr>
-
-</div>
 
 ```
 <COMMANDS>
