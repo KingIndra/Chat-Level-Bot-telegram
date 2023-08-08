@@ -29,11 +29,19 @@ starting bot:
 /setrank nick_name : to set a custom nickname.
 /unsetrank : to remove custom nickname.
 w or W or 😼 : to increase rep.
-l or L or 💀 : to decrease rep. 
+l or L or 💀 : to decrease rep.
+
+(MORE)
 /startbot to start bot in your group after adding it
 Talk with GPT AI byt replying to bot
 /news for fetching news
-contact developer @KingIndra for any help.
+
+(SUPERUSER COMMANDS)
+/superrep
+/superrank
+/superranknull
+/changerights
+/superlvl
 ```
 
 <hr>
