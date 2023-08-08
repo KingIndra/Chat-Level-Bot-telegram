@@ -121,5 +121,3 @@ contact developer @KingIndra for any help.
 <img style="width:300px;" src="images/photo_2023-07-21_00-57-48.jpg"></img>
 
 <hr>
-
-### ENJOY 😉
