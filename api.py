@@ -5,7 +5,7 @@ from keys import *
 class ReputationSystem(object):
 
     def __init__(self, bot):
-        self.uri = "mongodb+srv://username:varunkapass@cluster0.lattlsd.mongodb.net/?retryWrites=true&w=majority"
+        self.uri = "Your Mongo DB URL"
         self.client = MongoClient(self.uri)
         self.crud_mongo = self.client["CRUD"]
         self.test = self.crud_mongo['test']
